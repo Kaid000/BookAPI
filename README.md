@@ -5,13 +5,13 @@
 ## Использующиеся технологии 
 
 .NET 8.0
-Entity Framework Core
-MS SQL Server 2019
-AutoMapper
-MediatR
-EF Fluent API
-Swagger
-Authentication via bearer token
+Entity Framework Core,
+MS SQL Server 2019,
+AutoMapper,
+MediatR,
+EF Fluent API,
+Swagger,
+Authentication via bearer token.
 
 ## Как запустить проект
 
